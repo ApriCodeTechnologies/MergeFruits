@@ -1,0 +1,36 @@
+{
+ "id": "./",
+ "name": "Fruit Merge",
+ "short_name": "Fruit Merge",
+ "description": "Drop and merge fruits to grow the biggest one.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#ffe9d6",
+ "theme_color": "#ff5d8f",
+ "categories": [
+  "games",
+  "puzzle"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-maskable.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
